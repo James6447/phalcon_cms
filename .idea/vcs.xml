@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/cakephp/cache" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/cakephp/collection" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/cakephp/core" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/cakephp/database" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/cakephp/datasource" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/cakephp/utility" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/psr/log" vcs="Git" />
+  </component>
+</project>
